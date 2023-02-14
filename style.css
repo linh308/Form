@@ -1,0 +1,22 @@
+.container{
+    margin-top:200px;
+    width: 500px;
+}
+form{
+    border: 1px solid rgb(192, 223, 255);
+    padding: 30px;
+}
+.title{
+    background-color: rgb(192, 223, 255);
+}
+h3{
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.form-group{
+    margin-bottom: 15px;
+    position: relative;
+}
+body{padding-top: 30px;}
